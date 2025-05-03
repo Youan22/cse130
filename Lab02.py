@@ -1,3 +1,24 @@
+
+#Question 4 is the reflection part of the assignment. Here, please answer questions such as these:
+
+# Was the syntax of Python the hardest part? If so, what part?
+#the syntax of Python was not the hardest part for me. I found it to be quite readable and easy to understand. However, 
+# I did have some difficulty with understanding how to properly handle JSON data and how to work with lists and dictionaries in Python.
+
+# Was there some aspect of the problem that was particularly difficult to solve?
+# I found the authentication system to be a bit challenging, especially when it came to checking if the username and password matched.
+# I had to make sure that I was correctly indexing the lists and handling the case where the username was not found in the list.
+
+# Was there an especially difficult bug? If so, how did you resolve it?
+# I did not encounter any particularly difficult bugs, but I did have to spend some time debugging the code to make sure that it was working correctly.
+# I used print statements to check the values of variables at different points in the code, which helped me identify any issues.
+
+# Was there some difficulty with the instructions or any part of the problem definition?
+# I found the instructions to be clear and easy to follow. However, I did have to spend some time researching how to work with JSON data in Python,
+# as I was not familiar with it before this assignment.
+# I also had to spend some time understanding how to properly handle lists and dictionaries in Python, as I was not very familiar with them before this assignment.
+
+
 import json
 filename = 'Lab02.json'
 with open(filename, 'r') as file:
